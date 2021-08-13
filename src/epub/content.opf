@@ -36,42 +36,44 @@
 		<meta property="term" refines="#subject-1">sh85043353</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85043341</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Drama</meta>
+		<dc:description id="description">A notorious womanizer spreads a rumour he is now a eunuch in order to gain access to other’s wives.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Country Wife&lt;/i&gt; was first performed in January 1672 at the Theatre Royal, Drury Lane. It follows several plot lines, the principle of which follows notorious rake Harry Horner’s attempt to carry on affairs by spreading a rumour he was now a eunuch and no longer a threat to any man's wife. It was controversial for its sexual explicitness even in its own time, having several notorious scenes filled with extended sexual innuendo and women carousing, singing riotous songs, and behaving exactly like male their male counterparts.&lt;/p&gt;
+			&lt;p&gt;With the Restoration of the monarchy in 1660 the 18-year ban on theatre imposed by the Puritans was lifted. Charles II's time in France had nurtured a fascination with the stage and, with his enthusiastic support, Restoration drama was soon once again a thriving part of the London culture — but it provided a completely different experience from the previous Jacobean theatre.&lt;/p&gt;
+			&lt;p&gt;Christopher Wren’s newly built Theatre Royal provided a modern stage that accommodated innovations in scenic design and created a new relationship between actors and the audience. Another novelty, imported from France, was the presence of women on stage for the first time in British history. Restoration audiences were fascinated and often aghast to see real women perform, matching their male counterparts both in their wit and use of double entendre.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/william-wycherley"&gt;William Wycherley&lt;/a&gt; had spent some of the Commonwealth years in France and become interested in French drama. Borrowing extensively from Molière and others he wrote several plays for this new theatre, with his last two comedies, &lt;i&gt;The Country Wife&lt;/i&gt; and &lt;i&gt;The Plain Dealer&lt;/i&gt;, being the most famous. At the time, &lt;i&gt;The Country Wife&lt;/i&gt; was considered the bawdiest and wittiest play yet seen on the English stage. It enjoyed popularity throughout the period but, as mores shifted and became more strict, the play was eventually considered too outrageous to be performed at all and between 1753 and 1924 was generally replaced on the stage by David Garrick’s cleaned-up and bland version.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55426</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/williamwycherle00macagoog</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Country_Wife</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-wycherley_the-country-wife</meta>
 		<dc:creator id="author">William Wycherley</dc:creator>
 		<meta property="file-as" refines="#author">Wycherley, William</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Wycherley</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79066666</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="author-of-introduction">W. C. Ward</dc:contributor>
+		<meta property="file-as" refines="#author-of-introduction">Ward, W. C.</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
+		<meta property="se:role" refines="#author-of-introduction" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Pieter de Hooch</dc:contributor>
+		<meta property="file-as" refines="#artist">de Hooch, Pieter</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Pieter_de_Hooch</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80139466</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Clare Graham</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Graham, Clare</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Marc D’Hooghe at Free Literature</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-2">Marc </dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Images generously made available by the Internet Archive</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://astart.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
