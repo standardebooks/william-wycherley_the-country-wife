@@ -46,7 +46,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/55426</dc:source>
 		<dc:source>https://archive.org/details/williamwycherle00macagoog</dc:source>
 		<meta property="se:word-count">34489</meta>
-		<meta property="se:reading-ease.flesch">82.54</meta>
+		<meta property="se:reading-ease.flesch">82.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Country_Wife</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-wycherley_the-country-wife</meta>
 		<dc:creator id="author">William Wycherley</dc:creator>
