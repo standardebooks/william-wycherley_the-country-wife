@@ -57,8 +57,8 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="author-of-introduction">W. C. Ward</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Ward, W. C.</meta>
-		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Pieter de Hooch</dc:contributor>
 		<meta property="file-as" refines="#artist">de Hooch, Pieter</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Pieter_de_Hooch</meta>
