@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85043341</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>A notorious womanizer spreads a rumour that he is now a eunuch in order to gain access to other’s wives.</dc:abstract>
+		<meta property="schema:abstract">A notorious womanizer spreads a rumour that he is now a eunuch in order to gain access to other’s wives.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Country Wife&lt;/i&gt; was first performed in January 1672 at the Theatre Royal, Drury Lane. It traces several plot lines, the principal of which follows notorious rake Harry Horner’s attempt to carry on affairs by spreading a rumor that he is now a eunuch and no longer a threat to any man’s wife. It was controversial for its sexual explicitness even in its own time, having several notorious scenes filled with extended sexual innuendo and women carousing, singing riotous songs, and behaving exactly like their male counterparts.&lt;/p&gt;
 			&lt;p&gt;With the restoration of the monarchy in 1660 the eighteen year ban on theater imposed by the Puritans was lifted. Charles II’s time in France had nurtured a fascination with the stage and, with his enthusiastic support, Restoration drama was soon once again a thriving part of the London culture—but it provided a completely different experience from Jacobean theater.&lt;/p&gt;
