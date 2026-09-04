@@ -31,7 +31,7 @@
 		<dc:title id="title">The Country Wife</dc:title>
 		<meta property="file-as" refines="#title">Country Wife, The</meta>
 		<dc:subject id="subject-1">English drama (Comedy)</dc:subject>
-		<dc:subject id="subject-2">English drama -- 17th century</dc:subject>
+		<dc:subject id="subject-2">English drama--17th century</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043353</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
